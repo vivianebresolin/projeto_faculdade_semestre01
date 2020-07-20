@@ -2,7 +2,7 @@
 Projeto final do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 
-![](/C:/Users/vivia/Documents/scratch.png)
+![Scratch](C:/Users/vivia/Documents/scratch.png)
 
 
 ### Link Externo:
